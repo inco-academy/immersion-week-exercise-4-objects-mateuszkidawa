@@ -1,3 +1,5 @@
-module.exports = function hasValueDepth() {
+module.exports = hasValueDepth
+
+function hasValueDepth() {
   // TODO Implement me.
 };
